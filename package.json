@@ -2,15 +2,15 @@
   "private": true,
   "dependencies": {
     "@babel/polyfill": "^7.0.0",
-    "@lingui/core": "latest",
+    "@lingui/core": "2.7.0",
     "@lingui/macro": "^2.7.0",
-    "@lingui/react": "latest",
-    "react": "16.5.0",
-    "react-dom": "16.5.0"
+    "@lingui/react": "2.7.0",
+    "react": "16.5.1",
+    "react-dom": "16.5.1"
   },
   "devDependencies": {
     "@babel/cli": "^7.0.0",
-    "@babel/core": "^7.0.0",
+    "@babel/core": "^7.0.1",
     "@babel/plugin-proposal-class-properties": "^7.0.0",
     "@babel/plugin-proposal-export-default-from": "^7.0.0",
     "@babel/plugin-proposal-object-rest-spread": "^7.0.0",
@@ -20,9 +20,9 @@
     "@babel/preset-env": "^7.0.0",
     "@babel/preset-flow": "^7.0.0",
     "@babel/preset-react": "^7.0.0",
-    "@lingui/cli": "latest",
-    "@lingui/conf": "latest",
-    "@lingui/loader": "latest",
+    "@lingui/cli": "2.7.0",
+    "@lingui/conf": "2.7.0",
+    "@lingui/loader": "2.7.0",
     "babel-core": "^7.0.0-0",
     "babel-plugin-macros": "^2.4.0",
     "babel-plugin-universal-import": "^3.0.2",
